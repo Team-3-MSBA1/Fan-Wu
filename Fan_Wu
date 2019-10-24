@@ -1,0 +1,12 @@
+# importing packages
+import pandas as pd             # data science essentials
+import matplotlib.pyplot as plt # data visualization
+
+# specifying a file
+file = 'Team3_Python.xlsx'
+
+# reading the file into Python through pandas
+diamonds = pd.read_excel(file)
+
+# printing the first 5 rows of the dataset
+print(diamonds.head(n = 22))
