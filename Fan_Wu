@@ -12,5 +12,3 @@ diamonds = pd.read_excel(file)
 print(diamonds.head(n = 22)
 
 
-hi #jfisaodas
-good AFTERNOON
