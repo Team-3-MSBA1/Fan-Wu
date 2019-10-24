@@ -10,3 +10,7 @@ diamonds = pd.read_excel(file)
 
 # printing the first 5 rows of the dataset
 print(diamonds.head(n = 22))
+
+
+hi #jfisaodas
+good AFTERNOON
